@@ -1,0 +1,40 @@
+{
+	"transactions": [
+		{
+			"account": "85225264",
+			"accountName": "Savings Account",
+			"mask": "0124",
+			"amount": 588.59,
+			"transactionType": "deposit",
+			"currencyCode": "PAB USD",
+			"currencyName": "Liberian Dollar",
+			"currencySymbol": "лв",
+			"iban": "NO2607790970023",
+			"bic": "YWGIGPX1"
+		},
+		{
+			"account": "67442173",
+			"accountName": "Checking Account",
+			"mask": "9572",
+			"amount": 890.66,
+			"transactionType": "withdrawal",
+			"currencyCode": "DKK",
+			"currencyName": "Codes specifically reserved for testing purposes",
+			"currencySymbol": "₫",
+			"iban": "PS828FY1714093005050080097054",
+			"bic": "JFEOIEQ1"
+		},
+		{
+			"account": "19107552",
+			"accountName": "Savings Account",
+			"mask": "3403",
+			"amount": 942.60,
+			"transactionType": "invoice",
+			"currencyCode": "XPD",
+			"currencyName": "Rand Loti",
+			"currencySymbol": "₱",
+			"iban": "KZ805710932986225527",
+			"bic": "AVKATTV1399"
+		}
+	]
+}
